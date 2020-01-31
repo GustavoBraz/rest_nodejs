@@ -1,0 +1,26 @@
+{
+  "name": "rest_nodejs",
+  "version": "1.0.0",
+  "description": "Rest com NodeJS: API com Express e MySQL",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GustavoBraz/rest_nodejs.git"
+  },
+  "author": "Gustavo Braz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GustavoBraz/rest_nodejs/issues"
+  },
+  "homepage": "https://github.com/GustavoBraz/rest_nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
